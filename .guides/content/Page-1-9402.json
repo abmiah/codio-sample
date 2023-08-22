@@ -1,0 +1,22 @@
+{
+	"id": "9402239b-c1f9-9a09-4ab7-ab8bf89dd9fe",
+	"title": "Page 1",
+	"files": [
+		{
+			"path": "#preview: https://{{domain3050}}/",
+			"panel": 1,
+			"action": "open"
+		},
+		{
+			"path": "Trajectory Stack/turtle-play.py",
+			"action": "open"
+		}
+	],
+	"path": [],
+	"contentType": "markdown",
+	"type": "page",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": "",
+	"layout": "3-columns"
+}
