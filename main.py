@@ -17,7 +17,26 @@ def func():
           break
         except:
            print("Please enter a valid age") 
-    print("Welcome to MSc Cyber Security")
+    print("Welcome to MSc Cyber Security Course")
       
 
 func()
+# def func():
+#     while True:
+#         user_input = input("Hello, please enter your name > ").strip()
+        
+#         if not user_input:
+#             print("Error")
+#             continue
+
+#         try:
+#             user_input_age = int(input(f"Hello, {user_input.title()} how old are you? "))
+#             dog_years_age = user_input_age + (15 + 9) * 5
+#             print(f"{user_input.title()}, you are {user_input_age} years old, in dog years that would be {dog_years_age}")
+#             break
+#         except ValueError:
+#             print("Please enter a valid age")
+
+#     print("Welcome to MSc Cyber Security")
+
+# func()
